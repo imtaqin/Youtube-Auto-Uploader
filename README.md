@@ -1,2 +1,2 @@
-# Youtube-Auto-Uploader
-Youtube Auto Uploader with Puppeteer
+# Youtube-Uploader
+yet Another Unlimite Youtube Video Uploader Bot made by Puppeteer
