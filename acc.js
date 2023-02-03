@@ -1,7 +1,7 @@
 module.exports = {
     data: [{
-        username: "iyangke378",
-        password: "mana123:;123",
+        username: "username",
+        password: "pass",
         path : "./videos/",
         keyword: "kpop,tes"
      
